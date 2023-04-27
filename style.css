@@ -351,7 +351,7 @@ main.index {
 section.backImage {
   min-height: 90vh;
   width: 100%;
-  background-image: url(../pictures/corals/coral4.JPG);
+  background-image: url(project/pictures/corals/coral4.JPG);
   background-size: cover;
   background-position: center;
   text-align: center;
